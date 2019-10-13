@@ -11801,11 +11801,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JHON DAVID CASTILLO\\source\\repos\\APIBinaryTree\\APIBinaryTree\\APIBinaryTree.csproj",
+      "projectUniqueName": "C:\\Users\\JHON DAVID CASTILLO\\Desktop\\developer-2019\\APIBinaryTreeNetCore\\APIBinaryTree\\APIBinaryTree.csproj",
       "projectName": "APIBinaryTree",
-      "projectPath": "C:\\Users\\JHON DAVID CASTILLO\\source\\repos\\APIBinaryTree\\APIBinaryTree\\APIBinaryTree.csproj",
+      "projectPath": "C:\\Users\\JHON DAVID CASTILLO\\Desktop\\developer-2019\\APIBinaryTreeNetCore\\APIBinaryTree\\APIBinaryTree.csproj",
       "packagesPath": "C:\\Users\\JHON DAVID CASTILLO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JHON DAVID CASTILLO\\source\\repos\\APIBinaryTree\\APIBinaryTree\\obj\\",
+      "outputPath": "C:\\Users\\JHON DAVID CASTILLO\\Desktop\\developer-2019\\APIBinaryTreeNetCore\\APIBinaryTree\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

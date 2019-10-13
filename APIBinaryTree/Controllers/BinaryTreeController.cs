@@ -10,6 +10,8 @@ namespace APIBinaryTree.Controllers
     [ApiController]
     public class BinaryTreeController : ControllerBase
     {
+        private static BT.BinaryTree bt = new BT.BinaryTree();
+
         // GET api/values
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
@@ -17,29 +19,22 @@ namespace APIBinaryTree.Controllers
             return new string[] { "value1", "value2" };
         }
 
-        // GET api/values/5
-        [HttpGet("{id}")]
-        public ActionResult<string> Get(int id)
+        [HttpGet("crear")]
+        public ActionResult<string> Crear(int id)
         {
-            return "value";
+            return Ok(bt.CrearBinaryTree());
         }
 
-        // POST api/values
-        [HttpPost]
-        public void Post([FromBody] string value)
+        [HttpGet("LowestCommonAncestor")]
+        public ActionResult<string> LowestCommonAncestor(int key1, int key2)
         {
+            return Ok(bt.BuscarPadre(key1, key2));
         }
 
-        // PUT api/values/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+        [HttpGet("Ancestor")]
+        public ActionResult<string> Ancestor(int key)
         {
-        }
-
-        // DELETE api/values/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
+            return Ok(bt.BuscarPadre(key));
         }
     }
 }
