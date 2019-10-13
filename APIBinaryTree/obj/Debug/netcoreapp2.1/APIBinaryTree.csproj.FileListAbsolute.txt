@@ -1,0 +1,14 @@
+C:\Users\JHON DAVID CASTILLO\source\repos\APIBinaryTree\APIBinaryTree\bin\Debug\netcoreapp2.1\APIBinaryTree.deps.json
+C:\Users\JHON DAVID CASTILLO\source\repos\APIBinaryTree\APIBinaryTree\bin\Debug\netcoreapp2.1\APIBinaryTree.runtimeconfig.json
+C:\Users\JHON DAVID CASTILLO\source\repos\APIBinaryTree\APIBinaryTree\bin\Debug\netcoreapp2.1\APIBinaryTree.runtimeconfig.dev.json
+C:\Users\JHON DAVID CASTILLO\source\repos\APIBinaryTree\APIBinaryTree\bin\Debug\netcoreapp2.1\APIBinaryTree.dll
+C:\Users\JHON DAVID CASTILLO\source\repos\APIBinaryTree\APIBinaryTree\bin\Debug\netcoreapp2.1\APIBinaryTree.pdb
+C:\Users\JHON DAVID CASTILLO\source\repos\APIBinaryTree\APIBinaryTree\obj\Debug\netcoreapp2.1\APIBinaryTree.csprojAssemblyReference.cache
+C:\Users\JHON DAVID CASTILLO\source\repos\APIBinaryTree\APIBinaryTree\obj\Debug\netcoreapp2.1\APIBinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\JHON DAVID CASTILLO\source\repos\APIBinaryTree\APIBinaryTree\obj\Debug\netcoreapp2.1\APIBinaryTree.RazorAssemblyInfo.cache
+C:\Users\JHON DAVID CASTILLO\source\repos\APIBinaryTree\APIBinaryTree\obj\Debug\netcoreapp2.1\APIBinaryTree.RazorAssemblyInfo.cs
+C:\Users\JHON DAVID CASTILLO\source\repos\APIBinaryTree\APIBinaryTree\obj\Debug\netcoreapp2.1\APIBinaryTree.AssemblyInfoInputs.cache
+C:\Users\JHON DAVID CASTILLO\source\repos\APIBinaryTree\APIBinaryTree\obj\Debug\netcoreapp2.1\APIBinaryTree.AssemblyInfo.cs
+C:\Users\JHON DAVID CASTILLO\source\repos\APIBinaryTree\APIBinaryTree\obj\Debug\netcoreapp2.1\APIBinaryTree.RazorTargetAssemblyInfo.cache
+C:\Users\JHON DAVID CASTILLO\source\repos\APIBinaryTree\APIBinaryTree\obj\Debug\netcoreapp2.1\APIBinaryTree.dll
+C:\Users\JHON DAVID CASTILLO\source\repos\APIBinaryTree\APIBinaryTree\obj\Debug\netcoreapp2.1\APIBinaryTree.pdb
