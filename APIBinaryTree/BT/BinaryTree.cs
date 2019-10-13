@@ -56,7 +56,7 @@ namespace APIBinaryTree.BT
                 int NuevoNode = RandomNumber(1, 100);
                 insert(root, NuevoNode);
             }
-
+         
             return true;
         }
 
